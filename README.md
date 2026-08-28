@@ -17,14 +17,14 @@ dev-journal/projects/<프로젝트>/
 
 ```powershell
 # pwsh
-git clone https://github.com/1Irving1/penguin-devlog.git "$HOME\Desktop\devlog-skill"
+git clone https://github.com/1Irving1/devlog-skill.git "$HOME\Desktop\devlog-skill"
 New-Item -ItemType Junction -Path "$HOME\.claude\skills\devlog" `
   -Target "$HOME\Desktop\devlog-skill\devlog"
 ```
 
 ```bash
 # bash (macOS · Linux)
-git clone https://github.com/1Irving1/penguin-devlog.git ~/Desktop/devlog-skill
+git clone https://github.com/1Irving1/devlog-skill.git ~/Desktop/devlog-skill
 ln -s ~/Desktop/devlog-skill/devlog ~/.claude/skills/devlog
 ```
 

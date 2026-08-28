@@ -72,5 +72,5 @@ description: 개발 과정을 개인 기록(dev-journal)으로 남길 때. 설�
 
 ## 설치
 
-이 스킬은 `1Irving1/penguin-devlog` 레포에 있고 `~/.claude/skills/devlog`에 정션·심링크로 연결한다.
+이 스킬은 `1Irving1/devlog-skill` 레포에 있고 `~/.claude/skills/devlog`에 정션·심링크로 연결한다.
 설치법은 그 레포 README 참고.
